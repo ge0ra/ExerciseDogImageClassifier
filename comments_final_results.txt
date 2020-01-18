@@ -1,0 +1,13 @@
+Results (they are all the same)
+  % Correct Dogs : 50.0
+  % Correct Breed : 0.0
+  % Correct Notdogs : 100.0
+
+Answers
+  1) Yes, they did. But not the right breed. They have made the same error.
+
+  2) No algorithm classified dog_2 as the same breed as dog_1. Both VGG and Resnet have classified dog_2 as a kind of fox and Alexnet as the wrong breed of dog.
+
+  3) Yes, they did it right.
+
+  4) Even if they have the were all wrong on dog_2 and right on the rest, only Alexnet found that dog_2 was a dog. I would therefore choose Alexnet. We can see that the statistics do not reflect the fact that Alexnet found one more dog than the other algorithms. This is due to the fact that the breed detected is not included in dognames.txt. Dogsnames.txt should be completed if this project was to be deployed in production.
