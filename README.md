@@ -1,4 +1,4 @@
-# Flowers Image Classifier with Deep Learning
+# Dog Images Classifier using a pre-trained CNN model
 
 Exercise from the [Udacity's AI Programming with Python Nanodegree program](https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
